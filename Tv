@@ -1,0 +1,43 @@
+{
+"name": "Digital TV",
+"author": "แบ่งปันIPTV ",
+"image": " https://sv1.picz.in.th/images/2021/07/06/s8gtJq.png",
+"url": "https://raw.githubusercontent.com/Gumpun/TV_DIGITAL-GUMPUN/main/LICENSE",
+"info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
+"stations": [
+{
+"name": " 6 July 2021 ",
+"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",
+"url": "xxx",
+"info": " Gumpun แบ่งปันiptv ",
+"playInNatPlayer": "true"
+},
+{
+"name": "⭐GUMPUN IPTV⭐",
+"image":"https://sv1.picz.in.th/images/2021/07/06/s8g1hz.png",
+"url": "xxx",
+"referer": "xxxx",
+"info": " ขออภัยในความไม่สะดวกขณะนี้เรากำลังเพิ่มช่อง ",
+"playInNatPlayer": "true"
+},
+{
+"name": "3 HD",
+"image":"https://sv1.picz.in.th/images/2021/07/06/s8VA1N.png",
+"url": "https://wacth.tv/tv-player/ch3-hd.html",
+"referer": " https://wacth.tv ",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "3 HD",
+"image":"https://sv1.picz.in.th/images/2021/07/06/s8VA1N.png",
+"url": "https://wacth.tv/tv-player/ch3-hd.html",
+"referer": " https://wacth.tv ",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true
+},
+
+
+
+]
+}
